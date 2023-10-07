@@ -1,0 +1,5 @@
+promise==2.3
+SQLAlchemy==2.0.21
+
+six==1.16.0
+typing_extensions==4.8.0
